@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "9.4Extracting the Right Portion of a Phrase", "9.4Extracting the Right Portion of a Phrase\9.4Extracting the Right Portion of a Phrase.vbproj", "{2FBF71ED-300C-48B9-B59A-C7E04747D276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FBF71ED-300C-48B9-B59A-C7E04747D276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBF71ED-300C-48B9-B59A-C7E04747D276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBF71ED-300C-48B9-B59A-C7E04747D276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBF71ED-300C-48B9-B59A-C7E04747D276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422C2F55-AC01-449E-9045-8ACF86893773}
+	EndGlobalSection
+EndGlobal
